@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Учебный проект Angular
 Вся информащия получена через HttpClient c https://jsonplaceholder.typicode.com/posts.
 ![table](https://github.com/BusinessPepega/angular-posts-table/assets/67157100/9d2601ce-1fb4-4efd-87a2-152623a8809c)
+
 ## Детали поста 
 ![card](https://github.com/BusinessPepega/angular-posts-table/assets/67157100/45052ec0-c48a-456b-bd2b-563a1033e3c3)
 ## Protected routes (CanActivate)
