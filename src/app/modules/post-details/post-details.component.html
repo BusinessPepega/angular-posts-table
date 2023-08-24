@@ -1,0 +1,15 @@
+<ng-container *ngIf="post">
+    <mat-card class="example-card">
+        <mat-card-header>            
+            <mat-card-title>{{post.title}}</mat-card-title>
+            <mat-card-subtitle>post#{{post.id}}</mat-card-subtitle>
+        </mat-card-header>
+        <mat-card-content>
+            <p>{{post.body}}</p>        
+        </mat-card-content>
+        <mat-divider></mat-divider>
+        <mat-card-actions routerLink="../">
+            <button mat-button>BACK</button>        
+        </mat-card-actions>
+    </mat-card>
+</ng-container>

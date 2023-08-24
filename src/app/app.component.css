@@ -1,0 +1,20 @@
+header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+button { 
+    margin: 10px 10px;
+    border: 1px #bbb;
+    border-radius: 6px;
+    padding: 10px 20px;
+    transition: all 0.4s ease-in-out;
+
+}
+
+button:hover {    
+    color: whitesmoke;
+    background-color: #909090;
+}
+
